@@ -21,3 +21,7 @@ for ( var x=1; x <= 100; x++) {
 }
 
 console.log(array);
+
+for ( var i = 0; i < array.length; i++) {
+  numbersString.innerHTML += '<li>' + array[i] + '<li>';
+}
