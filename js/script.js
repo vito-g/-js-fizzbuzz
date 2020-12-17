@@ -15,7 +15,6 @@ for ( var x=1; x <= 100; x++) {
 
 }
 
-
 // MEGLIO così:
 
 // for (var i = 1; i <= 100; i++) {
